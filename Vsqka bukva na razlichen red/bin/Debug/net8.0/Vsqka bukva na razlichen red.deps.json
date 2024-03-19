@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Vsqka bukva na razlichen red/1.0.0": {
+        "runtime": {
+          "Vsqka bukva na razlichen red.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Vsqka bukva na razlichen red/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+E:\visual studio\Strings\Vsqka bukva na razlichen red\bin\Debug\net8.0\Vsqka bukva na razlichen red.exe
+E:\visual studio\Strings\Vsqka bukva na razlichen red\bin\Debug\net8.0\Vsqka bukva na razlichen red.deps.json
+E:\visual studio\Strings\Vsqka bukva na razlichen red\bin\Debug\net8.0\Vsqka bukva na razlichen red.runtimeconfig.json
+E:\visual studio\Strings\Vsqka bukva na razlichen red\bin\Debug\net8.0\Vsqka bukva na razlichen red.dll
+E:\visual studio\Strings\Vsqka bukva na razlichen red\bin\Debug\net8.0\Vsqka bukva na razlichen red.pdb
+E:\visual studio\Strings\Vsqka bukva na razlichen red\obj\Debug\net8.0\Vsqka bukva na razlichen red.GeneratedMSBuildEditorConfig.editorconfig
+E:\visual studio\Strings\Vsqka bukva na razlichen red\obj\Debug\net8.0\Vsqka bukva na razlichen red.AssemblyInfoInputs.cache
+E:\visual studio\Strings\Vsqka bukva na razlichen red\obj\Debug\net8.0\Vsqka bukva na razlichen red.AssemblyInfo.cs
+E:\visual studio\Strings\Vsqka bukva na razlichen red\obj\Debug\net8.0\Vsqka bukva na razlichen red.csproj.CoreCompileInputs.cache
+E:\visual studio\Strings\Vsqka bukva na razlichen red\obj\Debug\net8.0\Vsqka bukva na razlichen red.dll
+E:\visual studio\Strings\Vsqka bukva na razlichen red\obj\Debug\net8.0\refint\Vsqka bukva na razlichen red.dll
+E:\visual studio\Strings\Vsqka bukva na razlichen red\obj\Debug\net8.0\Vsqka bukva na razlichen red.pdb
+E:\visual studio\Strings\Vsqka bukva na razlichen red\obj\Debug\net8.0\Vsqka bukva na razlichen red.genruntimeconfig.cache
+E:\visual studio\Strings\Vsqka bukva na razlichen red\obj\Debug\net8.0\ref\Vsqka bukva na razlichen red.dll
