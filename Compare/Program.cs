@@ -9,7 +9,7 @@
             Console.Write("Enter second: ");
             string input2 = Console.ReadLine();
 
-            int sravni = string.Compare(input1, input2);
+            int sravni = string.Compare(input1, input2, false);
             if (sravni < 0)
             {
                 Console.WriteLine("First Input > Second Input");

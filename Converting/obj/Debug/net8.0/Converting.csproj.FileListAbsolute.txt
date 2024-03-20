@@ -1,0 +1,15 @@
+C:\Milenski\Strings-homework\Converting\bin\Debug\net8.0\Converting.exe
+C:\Milenski\Strings-homework\Converting\bin\Debug\net8.0\Converting.deps.json
+C:\Milenski\Strings-homework\Converting\bin\Debug\net8.0\Converting.runtimeconfig.json
+C:\Milenski\Strings-homework\Converting\bin\Debug\net8.0\Converting.dll
+C:\Milenski\Strings-homework\Converting\bin\Debug\net8.0\Converting.pdb
+C:\Milenski\Strings-homework\Converting\obj\Debug\net8.0\Converting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Milenski\Strings-homework\Converting\obj\Debug\net8.0\Converting.AssemblyInfoInputs.cache
+C:\Milenski\Strings-homework\Converting\obj\Debug\net8.0\Converting.AssemblyInfo.cs
+C:\Milenski\Strings-homework\Converting\obj\Debug\net8.0\Converting.csproj.CoreCompileInputs.cache
+C:\Milenski\Strings-homework\Converting\obj\Debug\net8.0\Converting.sourcelink.json
+C:\Milenski\Strings-homework\Converting\obj\Debug\net8.0\Converting.dll
+C:\Milenski\Strings-homework\Converting\obj\Debug\net8.0\refint\Converting.dll
+C:\Milenski\Strings-homework\Converting\obj\Debug\net8.0\Converting.pdb
+C:\Milenski\Strings-homework\Converting\obj\Debug\net8.0\Converting.genruntimeconfig.cache
+C:\Milenski\Strings-homework\Converting\obj\Debug\net8.0\ref\Converting.dll

@@ -1,17 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\visual studio\\Strings\\",
+  "WorkspaceRootPath": "C:\\Milenski\\Strings-homework\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{935B6901-8969-4279-AD28-05F21909E621}|Converting\\Converting.csproj|e:\\visual studio\\strings\\converting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{935B6901-8969-4279-AD28-05F21909E621}|Converting\\Converting.csproj|solutionrelative:converting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{787AD415-5973-4698-8F02-1E2E76DBEF00}|Compare\\Compare.csproj|e:\\visual studio\\strings\\compare\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{787AD415-5973-4698-8F02-1E2E76DBEF00}|Compare\\Compare.csproj|C:\\Milenski\\Strings-homework\\compare\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{787AD415-5973-4698-8F02-1E2E76DBEF00}|Compare\\Compare.csproj|solutionrelative:compare\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BF4C9F7E-6C9F-4941-9D95-4BBFC9839F7D}|Vsqka bukva na razlichen red\\Vsqka bukva na razlichen red.csproj|e:\\visual studio\\strings\\vsqka bukva na razlichen red\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{935B6901-8969-4279-AD28-05F21909E621}|Converting\\Converting.csproj|c:\\milenski\\strings-homework\\converting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{935B6901-8969-4279-AD28-05F21909E621}|Converting\\Converting.csproj|solutionrelative:converting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF4C9F7E-6C9F-4941-9D95-4BBFC9839F7D}|Vsqka bukva na razlichen red\\Vsqka bukva na razlichen red.csproj|C:\\Milenski\\Strings-homework\\vsqka bukva na razlichen red\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BF4C9F7E-6C9F-4941-9D95-4BBFC9839F7D}|Vsqka bukva na razlichen red\\Vsqka bukva na razlichen red.csproj|solutionrelative:vsqka bukva na razlichen red\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -22,44 +22,46 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "E:\\visual studio\\Strings\\Converting\\Program.cs",
+              "DocumentMoniker": "C:\\Milenski\\Strings-homework\\Converting\\Program.cs",
               "RelativeDocumentMoniker": "Converting\\Program.cs",
-              "ToolTip": "E:\\visual studio\\Strings\\Converting\\Program.cs",
+              "ToolTip": "C:\\Milenski\\Strings-homework\\Converting\\Program.cs",
               "RelativeToolTip": "Converting\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAtAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-19T19:07:34.319Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "E:\\visual studio\\Strings\\Compare\\Program.cs",
+              "DocumentMoniker": "C:\\Milenski\\Strings-homework\\Compare\\Program.cs",
               "RelativeDocumentMoniker": "Compare\\Program.cs",
-              "ToolTip": "E:\\visual studio\\Strings\\Compare\\Program.cs",
+              "ToolTip": "C:\\Milenski\\Strings-homework\\Compare\\Program.cs",
               "RelativeToolTip": "Compare\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAJAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA/AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-19T19:02:27.433Z"
+              "WhenOpened": "2024-03-19T19:02:27.433Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "E:\\visual studio\\Strings\\Vsqka bukva na razlichen red\\Program.cs",
+              "DocumentMoniker": "C:\\Milenski\\Strings-homework\\Vsqka bukva na razlichen red\\Program.cs",
               "RelativeDocumentMoniker": "Vsqka bukva na razlichen red\\Program.cs",
-              "ToolTip": "E:\\visual studio\\Strings\\Vsqka bukva na razlichen red\\Program.cs",
+              "ToolTip": "C:\\Milenski\\Strings-homework\\Vsqka bukva na razlichen red\\Program.cs",
               "RelativeToolTip": "Vsqka bukva na razlichen red\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAuAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-19T18:55:06.801Z"
+              "WhenOpened": "2024-03-19T18:55:06.801Z",
+              "EditorCaption": ""
             }
           ]
         }

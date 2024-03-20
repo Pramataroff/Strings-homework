@@ -8,24 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\admin\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\STUDENTS-1212-5\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\visual studio\\Strings\\Vsqka bukva na razlichen red\\Vsqka bukva na razlichen red.csproj",
+      "projectUniqueName": "C:\\Milenski\\Strings-homework\\Vsqka bukva na razlichen red\\Vsqka bukva na razlichen red.csproj",
       "projectName": "Vsqka bukva na razlichen red",
-      "projectPath": "E:\\visual studio\\Strings\\Vsqka bukva na razlichen red\\Vsqka bukva na razlichen red.csproj",
-      "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-      "outputPath": "E:\\visual studio\\Strings\\Vsqka bukva na razlichen red\\obj\\",
+      "projectPath": "C:\\Milenski\\Strings-homework\\Vsqka bukva na razlichen red\\Vsqka bukva na razlichen red.csproj",
+      "packagesPath": "C:\\Users\\STUDENTS-1212-5\\.nuget\\packages\\",
+      "outputPath": "C:\\Milenski\\Strings-homework\\Vsqka bukva na razlichen red\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\STUDENTS-1212-5\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

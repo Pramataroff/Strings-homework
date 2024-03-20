@@ -12,3 +12,18 @@ E:\visual studio\Strings\Vsqka bukva na razlichen red\obj\Debug\net8.0\refint\Vs
 E:\visual studio\Strings\Vsqka bukva na razlichen red\obj\Debug\net8.0\Vsqka bukva na razlichen red.pdb
 E:\visual studio\Strings\Vsqka bukva na razlichen red\obj\Debug\net8.0\Vsqka bukva na razlichen red.genruntimeconfig.cache
 E:\visual studio\Strings\Vsqka bukva na razlichen red\obj\Debug\net8.0\ref\Vsqka bukva na razlichen red.dll
+C:\Milenski\Strings-homework\Vsqka bukva na razlichen red\bin\Debug\net8.0\Vsqka bukva na razlichen red.exe
+C:\Milenski\Strings-homework\Vsqka bukva na razlichen red\bin\Debug\net8.0\Vsqka bukva na razlichen red.deps.json
+C:\Milenski\Strings-homework\Vsqka bukva na razlichen red\bin\Debug\net8.0\Vsqka bukva na razlichen red.runtimeconfig.json
+C:\Milenski\Strings-homework\Vsqka bukva na razlichen red\bin\Debug\net8.0\Vsqka bukva na razlichen red.dll
+C:\Milenski\Strings-homework\Vsqka bukva na razlichen red\bin\Debug\net8.0\Vsqka bukva na razlichen red.pdb
+C:\Milenski\Strings-homework\Vsqka bukva na razlichen red\obj\Debug\net8.0\Vsqka bukva na razlichen red.GeneratedMSBuildEditorConfig.editorconfig
+C:\Milenski\Strings-homework\Vsqka bukva na razlichen red\obj\Debug\net8.0\Vsqka bukva na razlichen red.AssemblyInfoInputs.cache
+C:\Milenski\Strings-homework\Vsqka bukva na razlichen red\obj\Debug\net8.0\Vsqka bukva na razlichen red.AssemblyInfo.cs
+C:\Milenski\Strings-homework\Vsqka bukva na razlichen red\obj\Debug\net8.0\Vsqka bukva na razlichen red.csproj.CoreCompileInputs.cache
+C:\Milenski\Strings-homework\Vsqka bukva na razlichen red\obj\Debug\net8.0\Vsqka bukva na razlichen red.sourcelink.json
+C:\Milenski\Strings-homework\Vsqka bukva na razlichen red\obj\Debug\net8.0\Vsqka bukva na razlichen red.dll
+C:\Milenski\Strings-homework\Vsqka bukva na razlichen red\obj\Debug\net8.0\refint\Vsqka bukva na razlichen red.dll
+C:\Milenski\Strings-homework\Vsqka bukva na razlichen red\obj\Debug\net8.0\Vsqka bukva na razlichen red.pdb
+C:\Milenski\Strings-homework\Vsqka bukva na razlichen red\obj\Debug\net8.0\Vsqka bukva na razlichen red.genruntimeconfig.cache
+C:\Milenski\Strings-homework\Vsqka bukva na razlichen red\obj\Debug\net8.0\ref\Vsqka bukva na razlichen red.dll
